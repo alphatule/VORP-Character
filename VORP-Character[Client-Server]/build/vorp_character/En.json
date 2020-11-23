@@ -19,6 +19,7 @@
   "CommandSuspender": "suspender",
   "CommandVest": "vest",
   "CommandCoat": "coat",
+  "CommandCoatClosed": "coatc",
   "CommandPoncho": "poncho",
   "CommandCloak": "cloack",
   "CommandGlove": "glove",

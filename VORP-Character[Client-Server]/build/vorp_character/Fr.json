@@ -19,6 +19,7 @@
   "CommandSuspender": "accolades",
   "CommandVest": "gilet",
   "CommandCoat": "manteau",
+  "CommandCoatClosed": "manteauf",
   "CommandPoncho": "poncho",
   "CommandCloak": "couche",
   "CommandGlove": "gants",
